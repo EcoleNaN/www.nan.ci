@@ -4,15 +4,15 @@
                 <div class="col-md-6 padd">
                     <ul class="list-inline other-page"   style="margin:0px 20px; ">
                         <li class="list-inline-item" style="padding-top: 10px;">
-                            <a class="text-white badge" href="#"><span class="label taille">F.A.Q</span></a>
+                            <a class="text-white badge" href="#"><span class="label label-info">F.A.Q</span></a>
                         </li>
                         <li class="list-inline-item" style="padding-top: 10px;">|</li>
                         <li class="list-inline-item" style="padding-top: 10px;">
-                            <a class="text-white badge" href="business.html" target="blank" ><span class="label taille">NaN Business</span></a>
+                            <a class="text-white badge" href="business.html" target="blank" ><span class="label label-info">NaN Business</span></a>
                         </li>
                         <li class="list-inline-item" style="padding-top: 10px;">|</li>
                         <li class="list-inline-item" style="padding-top: 10px;">
-                            <a class="text-white badge" href="opensource.html" target="blank"><span class="label taille">NaN OpenSource</span></a>
+                            <a class="text-white badge" href="opensource.html" target="blank"><span class="label label-info">NaN OpenSource</span></a>
                         </li>
                     </ul>
                 </div>
